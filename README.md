@@ -8,7 +8,7 @@ The repository provides:
 
 Agent conversation transcripts and compiler logs
 
-Quantitative metrics (BLEU, ROUGE, word counts, iterations)
+Quantitative metrics (BLEU, ROUGE, violin plots for word counts)
 
 Manually coded topic mappings and conversational pattern annotations
 
