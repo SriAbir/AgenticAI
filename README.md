@@ -14,5 +14,5 @@ ROUGE- ROUGE score graphs (Designer vs Programmer) for all the agent pairs
 
 Violin- Violin plot for word count (Designer vs Programmer) for all the agent pairs
 
-Summary_AgentBehaviour.xlsx- Presents 1) the summary of solution convergence and conversation behaviour of each agent pair, 2) All the topic groups under which the conversations were classified 3) Excel tab for each agent pair showing compilation success rate, programming language distribution and topic disctribution.
+Summary_AgentBehaviour.xlsx- Presents 1) the summary of solution convergence and conversation pattern of each agent pair, 2) All the topic groups under which the conversations were classified 3) Excel tab for each agent pair showing compilation success rate, programming language distribution and topic disctribution.
 
